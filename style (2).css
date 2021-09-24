@@ -1,0 +1,72 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@1,500&display=swap');
+
+* {
+font-family: 'Roboto', sans-serif;
+}
+
+body{background: lightsalmon;}
+
+    
+
+
+img {
+  border: 1px solid #000000;
+  widht-max: 200px;
+  height-max: 200px;
+  overflow: hidden;
+  border-radius: 200%;
+   text-align: center;
+}
+
+.container {
+border-radius: 200%;
+ text-align: center;
+}
+
+
+h3{background: peach;
+  padding-top:10px; padding-left:40px;}
+  
+.tired {
+border: 1px solid #000000;
+widht-max: 100px;
+height-max: 100px;
+overflow: hidden;
+border-radius: 50;
+ text-align: center;
+}
+
+.box {
+  display: inline-block;
+}
+  
+.ily {
+  border: 1px solid #000000;
+widht-max: 100px;
+height-max: 100px;
+overflow: hidden;
+border-radius: 50;
+  text-align: center;
+}
+
+.hurt {
+  border: 1px solid #000000;
+widht-max: 2000px;
+height-max: 200px;
+overflow: hidden;
+border-radius: 50;
+  text-align: center;
+}
+
+.ghosting {
+  border: 1px solid #000000;
+widht-max: 200px;
+height-max: 200px;
+overflow: hidden;
+border-radius: 50;
+  text-align: center;
+}
+
+h3 {
+  background: peachpuff;
+}
